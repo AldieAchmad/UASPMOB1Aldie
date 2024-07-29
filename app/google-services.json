@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177028308893",
+    "project_id": "news-906c9",
+    "storage_bucket": "news-906c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177028308893:android:f9d6eab304da8a93d69974",
+        "android_client_info": {
+          "package_name": "com.uts.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177028308893-1a4sl4t0509mrffgnf4v093bhki8fuac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uts.news",
+            "certificate_hash": "c995d5e05657de15ac5fea05cc79c1c862a2873a"
+          }
+        },
+        {
+          "client_id": "177028308893-abe5tfifal1qub3nubkm15dclk22u6cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uts.news",
+            "certificate_hash": "9c2fdbce19b2942f819215160c1671397b0ee7d9"
+          }
+        },
+        {
+          "client_id": "177028308893-n6f7pbtnncan46qnakttcdko7qdt3nuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7B8pd7vA3-maFm55rhcKGOQL8NFv2TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177028308893-n6f7pbtnncan46qnakttcdko7qdt3nuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
